@@ -1,12 +1,12 @@
 ![Static Badge](https://img.shields.io/badge/Functional%20Tester-%20pink?logo=Testing&logoColor=white&labelColor=black&color=pink)
 
 ![Static Badge](https://img.shields.io/badge/App%20Inventor-%20green?logo=Android&logoColor=white&labelColor=black&color=green)
-:::::::::::::::::::::::::::..BACKEND..:::::::::::::::::::::::::::
+
 ![Static Badge](https://img.shields.io/badge/Java-%20orange?logo=java&logoColor=white&labelColor=black&color=orange)
 ![Static Badge](https://img.shields.io/badge/MySQL-%20Blue?logo=MySQL&logoColor=white&labelColor=black&color=blue)
 ![Static Badge](https://img.shields.io/badge/JPA-%20skyblue?logo=jpa&logoColor=white&labelColor=black&color=skyblue)
 
-::::::::::::::::::::::::::..FRONTEND..:::::::::::::::::::::::::::
+
 ![Static Badge](https://img.shields.io/badge/HTML-%20purple?logo=html&logoColor=white&labelColor=black&color=purple)
 ![Static Badge](https://img.shields.io/badge/CSS-%20red?logo=css&logoColor=white&labelColor=black&color=red)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%20green?style=black&logo=javascript&logoColor=white&labelColor=black&color=green)
