@@ -4,13 +4,7 @@
   <img src="https://i.imgur.com/XqYpdtR.png" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;">
 </div>
 
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFolZI0V84&#x2F;view?utm_content=DAFolZI0V84&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
-  
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFolZI0V84&#x2F;view?utm_content=DAFolZI0V84&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
 ![Static Badge](https://img.shields.io/badge/Functional%20Tester-%20pink?logo=Testing&logoColor=white&labelColor=black&color=pink)
 
 ![Static Badge](https://img.shields.io/badge/App%20Inventor-%20green?logo=Android&logoColor=white&labelColor=black&color=green)
