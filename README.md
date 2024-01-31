@@ -39,13 +39,41 @@ Thank you so much..
       simple Apps created by me.
 - 🌱 I’m currently learning the Technique for creating and developing prostheses 
       and bionic organs.
-- 👯 I’m looking to collaborate on a simple project that allows me to gain 
-      experience as a Junior
+- 👯 I’m looking to collaborate on a simple project that allows me to gain experience as a Junior
 - 🤔 I’m looking for help with a mentor or work as a freelancer remotely
-- 💬 Ask me about  code development, apps, AI, machine learning, 
-      Python.
+- 💬 Ask me about  code development, apps, AI, machine learning, Python.
 - 📫 How to reach me: I am looking for help with gaining experience as a Junior, 
       polishing my codes so that they are clean.
+
 - 😄 Pronouns: She-Her 
+
 - ⚡ Fun fact: Imvu & Match game, Interested in Quotex short-term binary 
      investments.
+  
+:::::::::::::::::::::::::::..E.S.P.A.Ñ.O.L..:::::::::::::::::::::::::::
+
+ ¡Hola! 👋
+
+✨Mi nombre es Roxana✨ Soy de Argentina 🔵⚪🌞⚪🔵 Soy una desarrolladora Fullstack Jr 💁💻.
+
+Como recién graduada, estoy buscando mi propio camino como desarrolladora, 
+ya que considero mi amplio conocimiento en múltiples áreas. 
+De las más destacadas serían: Desarrollo Backend, Python, Aprendizaje Automático, 
+Creación de Bots (especialmente si son Bots para el comercio algorítmico) y Raspberry Pi.
+
+Estoy buscando mentores o personas interesadas en mi perfil.
+
+Muchas gracias…
+
+🔭 Actualmente estoy trabajando en la actualización de mis repositorios en Java, 
+   Python y algunas aplicaciones simples creadas por mí. 
+🌱 Actualmente estoy aprendiendo la técnica para crear y desarrollar prótesis y órganos biónicos. 
+👯 Estoy buscando colaborar en un proyecto sencillo que me permita ganar experiencia como Junior. 
+🤔 Estoy buscando ayuda con un mentor o trabajo como freelancer de forma remota. 
+💬 Pregúntame sobre desarrollo de código, aplicaciones, IA, aprendizaje automático, Python. 
+📫 Cómo contactarme: Estoy buscando ayuda para ganar experiencia como Junior, 
+   pulir mis códigos para que estén limpios. 
+
+😄 Pronombres: Ella-Su 
+
+⚡ Dato curioso: Imvu & Match game, Interesada en inversiones binarias a corto plazo de Quotex.
