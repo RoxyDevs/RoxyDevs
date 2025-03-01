@@ -111,6 +111,7 @@
 <img src="https://raw.githubusercontent.com/RoxyDevs/RoxyDevs/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <br clear="both">
 
 <div align="center">
@@ -120,7 +121,8 @@
 </div>
 
 ###
+
 <audio controls autoplay>
   <source src="https://www.youtube.com/watch?v=hbsREjQeWb8" type="audio/mpeg">
-Your browser does not support the audio element.
 </audio>
+###
