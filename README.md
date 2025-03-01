@@ -4,16 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoxyDevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RoxyDevs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RoxyDevs&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <img align="right" height="230" src="https://i.pinimg.com/736x/a5/87/59/a5875959519c61d76d79841c0b01c068.jpg"  />
 
 ###
@@ -118,10 +108,19 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/RoxyDevs/RoxyDevs/output/snake.svg" alt="Snake animation" />
 
 ###
+<br clear="both">
 
-<iframe width="0" height="0" src="https://www.youtube.com/embed/hbsREjQeWb8?si=W-6__BZLwjIdmFRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoxyDevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RoxyDevs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RoxyDevs&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+<audio controls autoplay>
+  <source src="https://www.youtube.com/watch?v=hbsREjQeWb8" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
