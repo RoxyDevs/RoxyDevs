@@ -1,79 +1,123 @@
-<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <img src="https://i.imgur.com/XqYpdtR.png" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;">
+<h2 align="left">Hi 👋! Is Rox and I'm a FullStack Developer, from Argentina!</h2>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoxyDevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=es&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RoxyDevs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=RoxyDevs&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+###
 
-![Static Badge](https://img.shields.io/badge/Functional%20Tester-%20pink?logo=Testing&logoColor=white&labelColor=black&color=pink)
+<img align="right" height="230" src="https://i.pinimg.com/736x/a5/87/59/a5875959519c61d76d79841c0b01c068.jpg"  />
 
-![Static Badge](https://img.shields.io/badge/App%20Inventor-%20green?logo=Android&logoColor=white&labelColor=black&color=green)
+###
 
-![Static Badge](https://img.shields.io/badge/Java-%20orange?logo=java&logoColor=white&labelColor=black&color=orange)
-![Static Badge](https://img.shields.io/badge/MySQL-%20Blue?logo=MySQL&logoColor=white&labelColor=black&color=blue)
-![Static Badge](https://img.shields.io/badge/JPA-%20skyblue?logo=jpa&logoColor=white&labelColor=black&color=skyblue)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+</div>
 
+###
 
-![Static Badge](https://img.shields.io/badge/HTML-%20purple?logo=html&logoColor=white&labelColor=black&color=purple)
-![Static Badge](https://img.shields.io/badge/CSS-%20red?logo=css&logoColor=white&labelColor=black&color=red)
-![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%20green?style=black&logo=javascript&logoColor=white&labelColor=black&color=green)
+<br clear="both">
 
-![Static Badge](https://img.shields.io/badge/Python-%20yellow?logo=python&logoColor=white&labelColor=black&color=yellow)
+<div align="center">
+  <a href="https://www.linkedin.com/in/roxdevs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_roxdev_?utm_source=qr&igsh=MTNkZTV4bWY5YTR0aw==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="roxdev2023@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="1011731755859968031" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/RoxFullstack/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://linktr.ee/roxdev?utm_source=linktree_admin_share" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://paypal.me/belakiss?country.x=AR&locale.x=es_XC" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  </a>
+</div>
 
-:::::::::::::::::::::::::::..E.N.G.L.I.S.H..:::::::::::::::::::::::::::
+###
 
-Hello There....! 👋
+<br clear="both">
 
-✨My name is Roxana✨
-I'm from Argentina 🔵⚪🌞⚪🔵  
-I'm a Fullstack Developer Jr 💁💻.
+<img src="https://raw.githubusercontent.com/RoxyDevs/RoxyDevs/output/snake.svg" alt="Snake animation" />
 
-As a recent graduate, I am looking for my own path as a developer, as I consider my extensive knowledge in multiple areas.
-Of the most notable would be: Backend Development, Python, Machine Learning, Bot Creations (especially if it is Bots for algorithmic trading) and Raspberry Pi.
-
-I am looking for mentoring or who is interested in my profile.
-
-Thank you so much..
-
-- 🔭 I’m currently working on updating my repositories in Java, Python and some 
-      simple Apps created by me.
-- 🌱 I’m currently learning the Technique for creating and developing prostheses 
-      and bionic organs.
-- 👯 I’m looking to collaborate on a simple project that allows me to gain experience as a Junior
-- 🤔 I’m looking for help with a mentor or work as a freelancer remotely
-- 💬 Ask me about  code development, apps, AI, machine learning, Python.
-- 📫 How to reach me: I am looking for help with gaining experience as a Junior, 
-      polishing my codes so that they are clean.
-
-- 😄 Pronouns: She-Her 
-
-- ⚡ Fun fact: Imvu & Match game, Interested in Quotex short-term binary 
-     investments.
-  
-:::::::::::::::::::::::::::..E.S.P.A.Ñ.O.L..:::::::::::::::::::::::::::
-
- ¡Hola! 👋
-
-✨Mi nombre es Roxana✨ Soy de Argentina 🔵⚪🌞⚪🔵 Soy una desarrolladora Fullstack Jr 💁💻.
-
-Como recién graduada, estoy buscando mi propio camino como desarrolladora, 
-ya que considero mi amplio conocimiento en múltiples áreas. 
-De las más destacadas serían: Desarrollo Backend, Python, Aprendizaje Automático, 
-Creación de Bots (especialmente si son Bots para el comercio algorítmico) y Raspberry Pi.
-
-Estoy buscando mentores o personas interesadas en mi perfil.
-
-Muchas gracias…
-
-🔭 Actualmente estoy trabajando en la actualización de mis repositorios en Java, 
-   Python y algunas aplicaciones simples creadas por mí. 
-🌱 Actualmente estoy aprendiendo la técnica para crear y desarrollar prótesis y órganos biónicos. 
-👯 Estoy buscando colaborar en un proyecto sencillo que me permita ganar experiencia como Junior. 
-🤔 Estoy buscando ayuda con un mentor o trabajo como freelancer de forma remota. 
-💬 Pregúntame sobre desarrollo de código, aplicaciones, IA, aprendizaje automático, Python. 
-📫 Cómo contactarme: Estoy buscando ayuda para ganar experiencia como Junior, 
-   pulir mis códigos para que estén limpios. 
-
-😄 Pronombres: Ella-Su 
-
-⚡ Dato curioso: Imvu & Match game, Interesada en inversiones binarias a corto plazo de Quotex.
+###
