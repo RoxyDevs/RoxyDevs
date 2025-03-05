@@ -16,6 +16,11 @@
 <img align="right" height="230" src="https://i.pinimg.com/736x/a5/87/59/a5875959519c61d76d79841c0b01c068.jpg"  />
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RoxyDevs/RoxyDevs/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -117,9 +122,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/RoxyDevs/RoxyDevs/output/snake.svg" alt="Snake animation" />
 
 ###
 
