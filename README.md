@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋! Is Rox and I'm a FullStack Developer, from Argentina!</h1>
 
-###
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -15,10 +13,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoxyDevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RoxyDevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RoxyDevs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -128,9 +124,7 @@
 
 ###
 
-
-
-###
+<br clear="both">
 
 <audio controls autoplay>
   <source src="https://www.youtube.com/watch?v=hbsREjQeWb8" type="audio/mpeg">
