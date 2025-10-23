@@ -88,6 +88,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
 </div>
+###
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [TechPath Weaver](https://github.com/RoxyDevs/techpath-weaver) | AI-powered career guide for women in tech | Firebase, Next.js, Gemini API |
+| [Bias Detector](#) | NLP tool for identifying gender bias in content | Python, FastAPI, HuggingFace |
+###
+### 🧭 My Dev Map
+💡 Python → 🧠 Machine Learning → 🌐 Full Stack → ☁️ Cloud AI Integration
 
 ###
 
