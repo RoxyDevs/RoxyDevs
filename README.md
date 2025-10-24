@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋! I'm Rox, a FullStack Developer from Argentina</h1>
 
-<img src="https://github.com/RoxyDevs/RoxyDevs/blob/main/banner.png" alt="Motivational Black Minimalist Banner" style="width:100%;max-width:600px;">
+<<img src="https://github.com/RoxyDevs/RoxyDevs/blob/main/assets/banner.png" alt="Motivational Black Minimalist Banner" style="width:100%;max-width:600px;">
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RoxyDevs&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave" height="150" />
