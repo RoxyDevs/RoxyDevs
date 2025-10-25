@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋! I'm Rox, a FullStack Developer from Argentina</h1>
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAG0Nm-a2Nw/Twg_G39U82VYJvRo_MGmjw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
+<div align="center">
+  <a href="https://linktr.ee/roxdev" target="_blank">
+    <img src="https://github.com/RoxyDevs/RoxyDevs/blob/main/White%20and%20Blue%20Minimalist%20AI%20Engineer%20LinkedIn%20Banner%20(1).png" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
+  </a>
+  <br/>
+  <small>✨ Click en la imagen para visitar mi Linktree ✨</small>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RoxyDevs&show_icons=true&include_all_commits=true&count_private=true&theme=vue&title_color=ff8c00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117" height="150" />
@@ -33,7 +35,8 @@
 **Python** → **Machine Learning** → **Full Stack** → **Cloud AI Integration**
 
 ## 📫 Connect with Me
-<a href="https://www.linkedin.com/in/roxdevs/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/roxdevs/" target="_blank">LinkedIn</a> • 
+<a href="https://linktr.ee/roxdev" target="_blank">Linktree</a>
 
 ## 🎵 Current Vibe
 Listen to my latest playlist: [YouTube](https://www.youtube.com/watch?v=hbsREjQeWb8)
