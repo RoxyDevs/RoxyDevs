@@ -5,87 +5,10 @@
   </a>
 </h1>
 
-<!-- Banner de Canva (Recuerda poner aquí la URL correcta que copiaste de GitHub) -->
-<div align="center">
-  <a href="https://linktr.ee/roxdev" target="_blank">
-    <img src="URL_DE_TU_NUEVO_BANNER_AQUÍ" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
-  </a>
-  <br/>
-  <small>✨ Click en la imagen para visitar mi Linktree ✨</small>
-</div>
-
-<br/>
-
-<!-- Sección "Sobre mí" y Estadísticas en columnas -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h2>🚀 Sobre Mí</h2>
-      <p>
-        Apasionada por el desarrollo de software y el aprendizaje continuo, con experiencia creando soluciones robustas tanto en el frontend como en el backend. Siempre estoy buscando nuevos desafíos y oportunidades para colaborar en proyectos innovadores.
-      </p>
-      <p>
-        Mi camino ha sido: <b>Python → Machine Learning → Full Stack → Cloud AI Integration.</b> ¡Y lo que sigue!
-      </p>
-      
-      <h3>📫 Conecta conmigo</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/roxdevs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="https://linktr.ee/roxdev" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-      </p>
-    </td>
-    <td valign="top" width="40%">
-      <!-- Estadísticas de GitHub -->
-      <img src="https://github-readme-stats.vercel.app/api?username=RoxyDevs&show_icons=true&include_all_commits=true&count_private=true&theme=vue&title_color=ff8c00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoxyDevs&layout=compact&theme=vue&title_color=ff8c00&text_color=00ff00&bg_color=0d1117" />
-    </td>
-  </tr>
-</table>
-
-<!-- Tech Stack con Iconos -->
-<h2 align="center">🛠 Tech Stack</h2>
-<p align="center">
-  <b>Frontend:</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,flutter" /><br><br>
-  <b>Backend:</b><br>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,java,spring,nodejs" /><br><br>
-  <b>Bases de Datos & Data/ML:</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,numpy,pandas,pytorch,tensorflow" /><br><br>
-  <b>Herramientas y Otros:</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,pycharm,vscode,figma,jupyter,kotlin,arduino,androidstudio,wordpress,apache" />
-</p>
-
-<!-- Gráfico de Actividad -->
-<h2 align="center">📈 Gráfico de Actividad</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoxyDevs&bg_color=0d1117&color=ffffff&line=ff8c00&point=00ff00&area=true&hide_border=true" />
-</p>
-
-<!-- Proyectos Destacados (Tu sección original, está perfecta) -->
-<h2 align="center">🚀 Proyectos Destacados</h2>
-<table align="center">
-  <thead>
-    <tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-      <th>Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/RoxyDevs/techpath-weaver">TechPath Weaver</a></td>
-      <td>Guía de carrera con IA para mujeres en tecnología</td>
-      <td>Firebase, Next.js, Gemini API</td>
-    </tr><!-- Encabezado animado -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Rox;A+FullStack+Developer;From+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
-  </a>
-</h1>
-
 <!-- Banner de Canva (¡No olvides pegar la URL de tu imagen aquí!) -->
 <div align="center">
   <a href="https://linktr.ee/roxdev" target="_blank">
+    <!-- ⚠️ RECUERDA CAMBIAR ESTA URL POR LA DE TU IMAGEN SUBIDA A GITHUB ⚠️ -->
     <img src="URL_DE_TU_BANNER_DE_CANVA_AQUÍ" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
   </a>
   <br/>
@@ -143,9 +66,9 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-      <th>Tecnologías</th>
+      <th align="left">Proyecto</th>
+      <th align="left">Descripción</th>
+      <th align="left">Tecnologías</th>
     </tr>
   </thead>
   <tbody>
