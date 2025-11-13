@@ -5,14 +5,12 @@
   </a>
 </h1>
 
-<!-- Banner de Canva -->
+<!-- ✨ TU NUEVO BANNER VA AQUÍ ✨ -->
 <div align="center">
   <a href="https://linktr.ee/roxdev" target="_blank">
-    <!-- ⚠️ ¡RECUERDA PEGAR TU URL "RAW" AQUÍ! ⚠️ -->
-    <img src="URL_DE_TU_BANNER_AQUÍ" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
+    <!-- ⚠️ Pega aquí la URL "Raw" de tu nuevo banner (el de la mano robótica) ⚠️ -->
+    <img src="URL_RAW_DE_TU_NUEVO_BANNER_AQUÍ" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
   </a>
-  <br/>
-  <small>✨ Click en la imagen para visitar mi Linktree ✨</small>
 </div>
 
 <br/>
