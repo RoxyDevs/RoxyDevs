@@ -5,13 +5,12 @@
   </a>
 </h1>
 
-<!-- ✨ TU NUEVO BANNER VA AQUÍ ✨ -->
+<!-- ✨ TU NUEVO BANNER ✨ -->
 <div align="center">
-  <a href="https://linktr.ee/roxdev" target="_blank">
-    <!-- ⚠️ Pega aquí la URL "Raw" de tu nuevo banner (el de la mano robótica) ⚠️ -->
-    <img src="URL_RAW_DE_TU_NUEVO_BANNER_AQUÍ" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/TuUsuario/TuRepositorio/main/White%20and%20Blue%20Minimalist%20AI%20Engineer%20LinkedIn%20Banner%20(2).png" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
 </div>
+
+<br/>
 
 <br/>
 
