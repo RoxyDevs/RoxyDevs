@@ -5,11 +5,11 @@
   </a>
 </h1>
 
-<!-- Banner de Canva (¡No olvides pegar la URL de tu imagen aquí!) -->
+<!-- Banner de Canva -->
 <div align="center">
   <a href="https://linktr.ee/roxdev" target="_blank">
-    <!-- ⚠️ RECUERDA CAMBIAR ESTA URL POR LA DE TU IMAGEN SUBIDA A GITHUB ⚠️ -->
-    <img src="URL_DE_TU_BANNER_DE_CANVA_AQUÍ" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
+    <!-- ⚠️ ¡RECUERDA PEGAR TU URL "RAW" AQUÍ! ⚠️ -->
+    <img src="URL_DE_TU_BANNER_AQUÍ" alt="Roxana Rolón - FullStack Developer" style="width:100%;max-width:800px;border-radius:10px;"/>
   </a>
   <br/>
   <small>✨ Click en la imagen para visitar mi Linktree ✨</small>
